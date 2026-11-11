@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hi! I'm a Web Developer currently working as a Network Operations Center (NOC) Engineer at PT Global Inti Corporatama.<br><br>I'm passionate about technology and continuously exploring different areas of the IT industry. My main interests include:<br><br>🌐 Web Development — Building and exploring modern websites and web applications.<br><br>🌐 Networking — Learning about network infrastructure, routing, network monitoring, and troubleshooting.<br><br>🤖 Artificial Intelligence — Exploring AI technologies and discovering how AI can be integrated into applications and automation workflows.<br><br>I enjoy learning new technologies, experimenting with different tools, and continuously improving my technical skills.<br><br>Always learning, always building, and always exploring new possibilities in technology.</p>
+<p data-importer="text" align="left">Hi! I'm a Web Developer currently working as a Network Operations Center (NOC) Engineer at PT Global Inti Corporatama.<br><br>I'm passionate about technology and continuously exploring different areas of the IT industry. My main interests include:<br><br> 💻 Web Development — Building and exploring modern websites and web applications.<br><br>🌐 Networking — Learning about network infrastructure, routing, network monitoring, and troubleshooting.<br><br>🤖 Artificial Intelligence — Exploring AI technologies and discovering how AI can be integrated into applications and automation workflows.<br><br>I enjoy learning new technologies, experimenting with different tools, and continuously improving my technical skills.<br><br>Always learning, always building, and always exploring new possibilities in technology.</p>
 
 ###
 
